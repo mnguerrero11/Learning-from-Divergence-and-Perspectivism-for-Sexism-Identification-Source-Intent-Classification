@@ -1,6 +1,6 @@
-# Learning-from-Divergence-and-Perspectivism-for-Sexism-Identification-Source-Intent-Classification
-Manuel Guerrero García - Trabajo de Fin de Grado - Ingeniería Informática
 # Detección y Categorización de Mensajes Sexistas con Deep Learning y Aprendizaje con Desacuerdo
+Manuel Guerrero García - Trabajo de Fin de Grado - Ingeniería Informática
+
 
 Este repositorio contiene todo el trabajo realizado para el Trabajo Fin de Grado  **"Detección y Categorización, según su Intención, de Mensajes de Contenido Sexista Mediante Técnicas de Deep Learning y Aprendizaje con Desacuerdo"** por Manuel Guerrero García, presentado en la Universidad de Huelva en 2024.
 
@@ -10,7 +10,6 @@ Este repositorio contiene todo el trabajo realizado para el Trabajo Fin de Grado
 
 - **data/**: Contiene los conjuntos de datos utilizados para el entrenamiento y la evaluación de los modelos.
 - **notebooks/**: Incluye todos los Jupyter notebooks utilizados durante el desarrollo del proyecto.
-- **models/**: Carpeta donde se almacenan los modelos preentrenados y sus versiones finales.
 - **results/**: Resultados obtenidos tras la evaluación de los modelos.
 - **scripts/**: Scripts de utilidad para preprocesamiento de datos y entrenamiento de modelos.
 - **docs/**: Documentación adicional del proyecto.
