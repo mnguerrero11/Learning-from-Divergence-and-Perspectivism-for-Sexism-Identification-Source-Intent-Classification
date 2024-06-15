@@ -14,24 +14,8 @@ Este repositorio contiene todo el trabajo realizado para el Trabajo Fin de Grado
 - **scripts/**: Scripts de utilidad para preprocesamiento de datos y entrenamiento de modelos.
 - **docs/**: Documentación adicional del proyecto.
 
-### Descripción de los Jupyter Notebooks
 
-1. **01_Data_Preprocessing.ipynb**: Notebook que contiene el preprocesamiento de los datos iniciales.
-2. **02_Exploratory_Data_Analysis.ipynb**: Análisis exploratorio de los datos.
-3. **03_Model_Training_v1.ipynb**: Entrenamiento del primer modelo utilizando una arquitectura básica.
-4. **04_Model_Training_v2.ipynb**: Entrenamiento del segundo modelo utilizando una arquitectura mejorada con técnicas de aprendizaje por transferencia.
-5. **05_Model_Evaluation.ipynb**: Evaluación de los modelos entrenados y análisis de resultados.
-6. **06_Ensemble_Methods.ipynb**: Implementación y evaluación de métodos de ensamble.
-
-### Conjuntos de Datos
-
-- **Original Training Set**: Conjunto de datos original utilizado para el entrenamiento.
-- **Original Dev Set**: Conjunto de datos de desarrollo para validación.
-- **Translated Data**: Conjunto de datos traducidos del inglés al español y viceversa.
-- **Augmented Data**: Conjunto de datos aumentado mediante técnicas de backtranslation y eliminación de filas clasificadas como NO.
-- **Test Sets**: Conjuntos de datos de prueba utilizados para la evaluación final.
-
-### Modelos Utilizados
+### Jupyter Notebooks de Modelos Utilizados
 
 1. **v1.1**: Modelo clasificador binario inicial.
 2. **v1.2**: Modelo mejorado con aprendizaje por transferencia utilizando DeBERTa y RoBERTa.
