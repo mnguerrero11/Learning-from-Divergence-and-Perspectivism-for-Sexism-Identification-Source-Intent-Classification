@@ -15,12 +15,15 @@ Manuel Guerrero García - Trabajo de Fin de Grado - Grado en Ingeniería Inform�
   <img src="https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
 </p>
 
+
+
+Este repositorio contiene todo el trabajo realizado para el Trabajo Fin de Grado **"Detección y Categorización, según su Intención, de Mensajes de Contenido Sexista Mediante Técnicas de Deep Learning y Aprendizaje con Desacuerdo"** por Manuel Guerrero García, presentado en la Universidad de Huelva en 2024.
+
 <p align="center">
-  <img src="https://www.hazfundacion.org/wp-content/uploads/2022/11/universidad-de-huelva.png" alt="Universidad de Huelva" width="200">
+  <img src="https://www.hazfundacion.org/wp-content/uploads/2022/11/universidad-de-huelva.png" alt="Universidad de Huelva" width="600">
   <img src="https://www.uhu.es/etsi/logos/logos_etsi_2017/JPG/logo_etsi_2017.jpg" alt="ETSI UHU" width="200">
 </p>
 
-Este repositorio contiene todo el trabajo realizado para el Trabajo Fin de Grado **"Detección y Categorización, según su Intención, de Mensajes de Contenido Sexista Mediante Técnicas de Deep Learning y Aprendizaje con Desacuerdo"** por Manuel Guerrero García, presentado en la Universidad de Huelva en 2024.
 
 ## Contenido del Repositorio
 
