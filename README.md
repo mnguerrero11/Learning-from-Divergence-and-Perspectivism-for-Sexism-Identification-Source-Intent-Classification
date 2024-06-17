@@ -21,7 +21,7 @@ Este repositorio contiene todo el trabajo realizado para el Trabajo Fin de Grado
 
 <p align="center">
   <img src="https://www.hazfundacion.org/wp-content/uploads/2022/11/universidad-de-huelva.png" alt="Universidad de Huelva" width="600">
-  <img src="https://www.uhu.es/etsi/logos/logos_etsi_2017/JPG/logo_etsi_2017.jpg" alt="ETSI UHU" width="200">
+  <img src="https://www.uhu.es/etsi/logos/logos_etsi_2017/JPG/logo_etsi_2017.jpg" alt="ETSI UHU" width="220">
 </p>
 
 
