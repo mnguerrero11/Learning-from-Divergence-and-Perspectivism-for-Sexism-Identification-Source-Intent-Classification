@@ -1,7 +1,7 @@
 ---
 
 # Detección y Categorización de Mensajes Sexistas con Deep Learning y Aprendizaje con Desacuerdo
-Manuel Guerrero García - Trabajo de Fin de Grado - Ingeniería Informática
+Manuel Guerrero García - Trabajo de Fin de Grado - Grado en Ingeniería Informática
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -13,6 +13,11 @@ Manuel Guerrero García - Trabajo de Fin de Grado - Ingeniería Informática
   <img src="https://img.shields.io/badge/GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
+</p>
+
+<p align="center">
+  <img src="https://www.uhu.es/presentacion/uploads/img/UHU_Logo.png" alt="Universidad de Huelva" width="200">
+  <img src="https://www.uhu.es/etsi/images/logo-etsi.png" alt="ETSI UHU" width="200">
 </p>
 
 Este repositorio contiene todo el trabajo realizado para el Trabajo Fin de Grado **"Detección y Categorización, según su Intención, de Mensajes de Contenido Sexista Mediante Técnicas de Deep Learning y Aprendizaje con Desacuerdo"** por Manuel Guerrero García, presentado en la Universidad de Huelva en 2024.
