@@ -1,5 +1,3 @@
-Claro, aquí tienes el README mejorado con los logos de las tecnologías usadas debajo del título en forma de imagen.
-
 ---
 
 # Detección y Categorización de Mensajes Sexistas con Deep Learning y Aprendizaje con Desacuerdo
